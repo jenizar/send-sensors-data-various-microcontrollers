@@ -13,6 +13,14 @@ every change in sensor value will update the data on Arduino nano, nodemcu and e
 demo:
 youtube
 
+![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot1.jpg)
+
+![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot2.jpg)
+
+![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot3.jpg)
+
+![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot4.jpg)
+
 references:
 1. https://stackoverflow.com/questions/34054070/arduino-string-to-multiple-variables
 2. https://youtu.be/Zv6VVg0yYcE
