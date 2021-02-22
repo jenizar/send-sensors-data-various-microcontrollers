@@ -19,7 +19,7 @@ youtube
 
 ![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot3.jpg)
 
-![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot4.jpg)
+![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot4.jpeg)
 
 references:
 1. https://stackoverflow.com/questions/34054070/arduino-string-to-multiple-variables
