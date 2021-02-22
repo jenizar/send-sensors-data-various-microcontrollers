@@ -11,7 +11,8 @@ arduino nano --> arduino nano --> nodemcu --> esp32
 every change in sensor value will update the data on Arduino nano, nodemcu and esp32
 
 demo:
-youtube
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0NESxiZVNhg/0.jpg)](http://www.youtube.com/watch?v=0NESxiZVNhg)
 
 ![alt text](https://github.com/jenizar/send-sensors-data-various-microcontrollers/blob/main/Screenshot1.jpg)
 
